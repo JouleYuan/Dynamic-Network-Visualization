@@ -1,0 +1,55 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#partA{
+    background-color: rgb(79,79,79);
+    color: rgb(202, 194, 194);
+    width: 20%;
+    height: 50%;
+    text-align: center;
+    font-size: 1.5ch;
+    position: absolute;
+    left:0;
+    top:0;
+}
+
+#partB{
+    background-color: black;
+    color: rgb(60,60,60);
+    border:5px solid rgb(79,79,79);
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    font-size: 4ch;
+    left:20%;
+    top:0;
+    position: absolute;
+}
+
+#partC{
+    background-color: black;
+    color: rgb(60,60,60);
+    border:5px solid rgb(79,79,79);
+    width: 40%;
+    height: 100%;
+    text-align: center;
+    font-size: 4ch;
+    right: 0;
+    top:0;
+    position: absolute;
+}
+
+#method{
+    background-color: rgb(79,79,79);
+    color: rgb(202, 194, 194);
+    width: 20%;
+    height: 50%;
+    text-align: center;
+    font-size: 1.5ch;
+    position: absolute;
+    left:0;
+    top:50%;
+}
+
+
