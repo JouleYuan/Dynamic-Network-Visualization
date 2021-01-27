@@ -12,7 +12,7 @@ yarn start
 
 The main page of the web app is shown as followed.
 
-![home](.\public\home.png)
+![home](./public/home.png)
 
 ## Data Transformation
 
