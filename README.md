@@ -4,6 +4,12 @@ This is a react web app which visualizes a dynamic network. The visualization me
 
 ## Quick Start
 
+First, install all the dependencies.
+
+```shell
+yarn install
+```
+
 Start the web app by the following command.
 
 ```shell
