@@ -18,9 +18,9 @@ yarn start
 
 The main page of the web app is shown as followed.
 
-![home](.\public\home.png)
+![home](./public/home.png)
 
 ## Data Transformation
 
-The code of the program to transform the data is in the data_processing directory, which is implemented with Python. If you want to try to transform the data yourself, please run algorithms.py first and then run class.py.
+The code of the program that transforms the dataset is in the data_processing directory, which is implemented with Python. If you want to try to transform the data yourself, please run algorithms.py first and then run class.py.
 
